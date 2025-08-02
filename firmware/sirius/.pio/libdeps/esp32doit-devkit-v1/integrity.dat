@@ -1,0 +1,6 @@
+ricki-z/SDS011 sensor Library @ ^0.0.8
+adafruit/Adafruit SHT31 Library @ ^2.2.2
+mcci-catena/MCCI LoRaWAN LMIC library@^5.0.1
+madhephaestus/ESP32Servo @ ^3.0.5
+sparkfun/SparkFun Qwiic RTC RV8803 Arduino Library @ ^1.2.8
+bblanchon/ArduinoJson@^6.21.3
