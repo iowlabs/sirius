@@ -60,7 +60,7 @@ APPKEY A55A75B53AF2F3479C1EDE347F2013A3
 #define N_SAMPLES 		1
 #define SAMPLE_TIME 	20 	// MINUTES
 
-#define SLEEP_TIME_US (1 * 60 * 1000000ULL) // 1 minutos
+#define SLEEP_TIME_US (1 * 60 * 1000000ULL) // 20 minutos
 
 
 
@@ -87,7 +87,7 @@ const lmic_pinmap lmic_pins = {
     .dio = {26, 27, LMIC_UNUSED_PIN}  // DIO0, DIO1, DIO2
 };
 
-#define DEBUG 1
+//#define DEBUG 1
 //Macros for enable serial prints
 #if DEBUG
 #define printd(s) {Serial.print((s));}
@@ -181,7 +181,7 @@ void setup()
   	// Desactiva WiFi/Bluetooth para ahorrar energía
   	disableWiFi();
 	Serial.begin(115200);
-  	delay(1000);
+  	delay(5);
 
 	//**********************
 	// CONTROL - PINES
@@ -201,7 +201,7 @@ void setup()
 	digitalWrite(BAM_EN, HIGH);
 
 
-	Serial.println(F("Iniciando Sirius con ABP..."));
+	printlnd(F("Iniciando Sirius con ABP..."));
 
 	preferences.begin("lora",true);
 	uint32_t savedSeq = preferences.getUInt("seqnoUp",0);
@@ -226,7 +226,7 @@ void setup()
   	// Inicia sensor SHT31
   	if (!sht31.begin(0x44))
 	{
-    	Serial.println("Error: no se detecta SHT31.");
+    	printlnd("Error: no se detecta SHT31.");
   	}
 	// inicia sensor de MP
 	my_sds.begin(&port);
@@ -401,56 +401,68 @@ void clean()
 }
 
 void do_send(osjob_t* j) {
-  Serial.println(F("Enviando datos..."));
+  printlnd(F("Enviando datos..."));
 
+/*
+  //Valores fijos para pruebas
   float d1 = 10.0;
   float d2 = 20.0;
   float d3 = 30.5;
+  float d4 = 24.5;
+  float d5 = 10.4;
+*/
 
-  uint8_t payload[12];
+  float d1 = p10;
+  float d2 = p25;
+  float d3 = t;
+  float d4 = h;
+  float d5 = v_bat;
+  uint8_t payload[20];
   memcpy(payload,     &d1, 4);
   memcpy(payload + 4, &d2, 4);
   memcpy(payload + 8, &d3, 4);
+  memcpy(payload + 12, &d4, 4);
+  memcpy(payload + 16, &d5, 4);
 
-  Serial.print("d1:");
-  Serial.print(d1);
-  Serial.print(",d2:");
-  Serial.print(d2);
-  Serial.print(",d3:");
-   Serial.println(d3);
+  printd("d1:");
+  printd(d1);
+  printd(",d2:");
+  printd(d2);
+  printd(",d3:");
+  printlnd(d3);
 
-Serial.print("Payload (hex): ");
-for (int i = 0; i < 12; i++) {
-  if (payload[i] < 0x10) Serial.print('0');  // para poner ceros a la izquierda
-  Serial.print(payload[i], HEX);
-  Serial.print(' ');
-}
-Serial.println();
+printd("Payload (hex): ");
+//for (int i = 0; i < 12; i++) {
+//  if (payload[i] < 0x10) Serial.print('0');  // para poner ceros a la izquierda
+//  Serial.print(payload[i], HEX);
+//  Serial.print(' ');
+//}
+printlnd(" ");
 
 if (LMIC.opmode & OP_TXRXPEND) {
-  Serial.println(F("TX is pending, not sending"));
+  printlnd("TX is pending, not sending");
 } else {
   LMIC_setTxData2(1, payload, sizeof(payload), 0);
-  Serial.println(F("Packet queued"));
+  printlnd("Packet queued");
 }
-  Serial.print(F("TXMODE: freq="));
-  Serial.print(LMIC.freq);
-  Serial.print(F(" Hz, DR="));
-  Serial.println(LMIC.datarate);
+  printd("TXMODE: freq=");
+  printd(LMIC.freq);
+  printd(" Hz, DR=");
+  printlnd(LMIC.datarate);
 }
 
 void onEvent(ev_t ev) {
-  Serial.print(F("Evento: "));
-  Serial.println(ev);
+  printd("Evento: ");
+  printlnd(ev);
 
   switch (ev) {
     case EV_TXCOMPLETE:
-      	Serial.println(F("Transmisión completada. Entrando a deep sleep..."));
-		delay(2000);
-		Serial.print("seq val :");
-		Serial.print(LMIC.seqnoUp);
-		Serial.print(", count : ");
-		Serial.println(counter);
+      	printlnd("Transmisión completada. Entrando a deep sleep...");
+		delay(200);
+		printd("seq val :");
+		printd(LMIC.seqnoUp);
+		printd(", count : ");
+		printlnd(counter);
 		counter++;
 		preferences.begin("lora",false);
 		preferences.putUInt("seqnoUp",LMIC.seqnoUp);
@@ -475,7 +487,7 @@ void onEvent(ev_t ev) {
 		rtc_gpio_set_level(GPIO_NUM_14, 1); // Mantener HIGH
 		rtc_gpio_hold_en(GPIO_NUM_14);     // Fijar el estado del pin durant
 
-		delay(1000);
+		delay(100);
       	esp_deep_sleep(SLEEP_TIME_US);
       	break;
 

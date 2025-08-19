@@ -1,0 +1,83 @@
+{
+  "name": "gs.up.receive",
+  "time": "2025-08-19T02:29:04.220185551Z",
+  "identifiers": [
+    {
+      "gateway_ids": {
+        "gateway_id": "sirius",
+        "eui": "A84041FDFE2AD38C"
+      }
+    }
+  ],
+  "data": {
+    "@type": "type.googleapis.com/ttn.lorawan.v3.GatewayUplinkMessage",
+    "message": {
+      "raw_payload": "QMrRDCaA6iQBnrIQ6Ib5UobmByEhdHkIdQ==",
+      "payload": {
+        "m_hdr": {
+          "m_type": "UNCONFIRMED_UP"
+        },
+        "mic": "dHkIdQ==",
+        "mac_payload": {
+          "f_hdr": {
+            "dev_addr": "260CD1CA",
+            "f_ctrl": {
+              "adr": true
+            },
+            "f_cnt": 9450
+          },
+          "f_port": 1,
+          "frm_payload": "nrIQ6Ib5UobmByEh"
+        }
+      },
+      "settings": {
+        "data_rate": {
+          "lora": {
+            "bandwidth": 125000,
+            "spreading_factor": 10,
+            "coding_rate": "4/5"
+          }
+        },
+        "frequency": "917800000",
+        "timestamp": 896752387,
+        "time": "2025-08-19T02:29:04.121075Z"
+      },
+      "rx_metadata": [
+        {
+          "gateway_ids": {
+            "gateway_id": "sirius",
+            "eui": "A84041FDFE2AD38C"
+          },
+          "time": "2025-08-19T02:29:04.121075Z",
+          "timestamp": 896752387,
+          "rssi": -41,
+          "channel_rssi": -41,
+          "snr": 12.2,
+          "frequency_offset": "2923",
+          "uplink_token": "ChQKEgoGc2lyaXVzEgioQEH9/irTjBCDts2rAxoLCPDCj8UGEMb/0GgguIfu1Iwa",
+          "channel_index": 5,
+          "received_at": "2025-08-19T02:29:04.124199446Z"
+        }
+      ],
+      "received_at": "2025-08-19T02:29:04.219430854Z",
+      "correlation_ids": [
+        "gs:uplink:01K302H7JW4HYTNXJ2S4F0X1T9"
+      ],
+      "crc_status": true
+    },
+    "band_id": "AU_915_928"
+  },
+  "correlation_ids": [
+    "gs:uplink:01K302H7JW4HYTNXJ2S4F0X1T9"
+  ],
+  "origin": "ip-10-101-13-171.us-west-1.compute.internal",
+  "context": {
+    "tenant-id": "CgN0dG4="
+  },
+  "visibility": {
+    "rights": [
+      "RIGHT_GATEWAY_TRAFFIC_READ"
+    ]
+  },
+  "unique_id": "01K302H7JWDGZVAW50H233HG5G"
+}

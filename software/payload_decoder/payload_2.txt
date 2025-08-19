@@ -1,0 +1,82 @@
+{
+  "name": "gs.up.receive",
+  "time": "2025-08-19T02:27:55.920141554Z",
+  "identifiers": [
+    {
+      "gateway_ids": {
+        "gateway_id": "sirius",
+        "eui": "A84041FDFE2AD38C"
+      }
+    }
+  ],
+  "data": {
+    "@type": "type.googleapis.com/ttn.lorawan.v3.GatewayUplinkMessage",
+    "message": {
+      "raw_payload": "QMrRDCaA6SQBldRzvQlZu2kp6ymXgZg65Q==",
+      "payload": {
+        "m_hdr": {
+          "m_type": "UNCONFIRMED_UP"
+        },
+        "mic": "gZg65Q==",
+        "mac_payload": {
+          "f_hdr": {
+            "dev_addr": "260CD1CA",
+            "f_ctrl": {
+              "adr": true
+            },
+            "f_cnt": 9449
+          },
+          "f_port": 1,
+          "frm_payload": "ldRzvQlZu2kp6ymX"
+        }
+      },
+      "settings": {
+        "data_rate": {
+          "lora": {
+            "bandwidth": 125000,
+            "spreading_factor": 10,
+            "coding_rate": "4/5"
+          }
+        },
+        "frequency": "916800000",
+        "timestamp": 828337799,
+        "time": "2025-08-19T02:27:55.689847Z"
+      },
+      "rx_metadata": [
+        {
+          "gateway_ids": {
+            "gateway_id": "sirius",
+            "eui": "A84041FDFE2AD38C"
+          },
+          "time": "2025-08-19T02:27:55.689847Z",
+          "timestamp": 828337799,
+          "rssi": -35,
+          "channel_rssi": -35,
+          "snr": 12.5,
+          "frequency_offset": "2911",
+          "uplink_token": "ChQKEgoGc2lyaXVzEgioQEH9/irTjBCH3f2KAxoMCKvCj8UGELLVkIsDINj+nuaNGA==",
+          "received_at": "2025-08-19T02:27:55.742276031Z"
+        }
+      ],
+      "received_at": "2025-08-19T02:27:55.828648114Z",
+      "correlation_ids": [
+        "gs:uplink:01K302F4WG50EBYYZCS1WCX6EM"
+      ],
+      "crc_status": true
+    },
+    "band_id": "AU_915_928"
+  },
+  "correlation_ids": [
+    "gs:uplink:01K302F4WG50EBYYZCS1WCX6EM"
+  ],
+  "origin": "ip-10-101-13-171.us-west-1.compute.internal",
+  "context": {
+    "tenant-id": "CgN0dG4="
+  },
+  "visibility": {
+    "rights": [
+      "RIGHT_GATEWAY_TRAFFIC_READ"
+    ]
+  },
+  "unique_id": "01K302F4WGDW4MG27HHDBRJ2JT"
+}
