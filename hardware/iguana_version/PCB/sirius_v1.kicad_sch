@@ -28647,6 +28647,77 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Q_PMOS_GSD")
+		(at 266.7 300.99 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c8a32155-283d-4aa5-a899-8fda0ff2bd55")
+		(property "Reference" "Q5"
+			(at 265.5316 306.197 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Q_PMOS_GSD"
+			(at 266.7 308.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 264.16 306.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 266.7 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 266.7 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "728f21cd-14e4-4a79-b764-82f28002fc18")
+		)
+		(pin "2"
+			(uuid "13c4856f-3491-46ce-ae82-5ae52a53d8c5")
+		)
+		(pin "3"
+			(uuid "29bc3107-d18f-4f1c-9a56-cf31fa031b8e")
+		)
+		(instances
+			(project "sirius_v1"
+				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
+					(reference "Q5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "IoWLabs:C")
 		(at 86.995 54.61 90)
 		(unit 1)

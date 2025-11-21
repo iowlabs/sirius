@@ -1,2 +1,20 @@
 Ejemplo de save en rtc OTAA + deep sleep
 https://github.com/Uspizig/ESP32_TTN_OTAA_ABP/blob/master/ESP32_OTTA_ABP_CCS811_EEPROM_Git.ino
+
+
+
+Pasos!!
+
+1. conecta el gateway a la alimentación
+2. Entra a la red dragino-XXXXXXX  con la clave dragino+dragino
+3. Ingresa a la ip 10.120.1.1
+4. En la sección de internet configura:
+	- Enable Wifi WAN client
+	- Host WiFi SSID "tu wifi"
+	- pashhphrase "tu clave"
+	- seleccióna save and apply
+
+2 TTN
+	ingresa a la consola con las claves
+	- noelgaspar7@gmail.com
+  	- 123momiaes!!
