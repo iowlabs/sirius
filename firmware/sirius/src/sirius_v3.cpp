@@ -158,6 +158,7 @@ int try_sds = 0;
 
 //output msg
 String payload = "";
+String msg = "";
 
 //variables guardadas de forma permanente
 RTC_DATA_ATTR int counter_cycles_pub 		= 0;
@@ -197,6 +198,8 @@ void initMicroSD(void);
 void saveData(String _data);
 void appendFile(fs::FS &fs, const char *path, const char *message);
 
+//***************************************************
+
 void setup()
 {
   	// Desactiva WiFi/Bluetooth para ahorrar energía
@@ -217,8 +220,7 @@ void setup()
 	pinMode(V_EN,  OUTPUT); 	//enable power to sd and others
 	pinMode(PMS_EN_PIN,OUTPUT);
 	pinMode(SERVO_EN_PIN,OUTPUT);
-
-
+	pinMode(MODE_SWITCH, INPUT);
 
 	digitalWrite(SD_CS ,HIGH);
 	digitalWrite(V_EN,HIGH);  // start high to enable sensors and lora.
@@ -244,9 +246,14 @@ void setup()
 	cleaner.write(140); // Revisar segun motor
 	delay(5);
 
+
+	if(digitalRead(MODE_SWITCH) == LOW)
+	{	
+		clean();
+	}
 	// iniciar SD
-	//if(SD.begin(SD_CS)){ initMicroSD();	}
-	//else{printlnd("SD problem");}
+	if(SD.begin(SD_CS)){ initMicroSD();	}
+	else{printlnd("SD problem");}
 
   	// Inicia sensor de temperatura
   	if(TH_TYPE_SENSOR == 0)
@@ -281,9 +288,9 @@ void setup()
 	timestamp = rtc.getEpoch();
 	readSensors();
 
-	//payload = pubData(); //armar el string
-	//printlnd(payload);
-	//saveData(payload);
+	msg = pubData(); //armar el string
+	printlnd( msg );
+	saveData( msg );
 
 	//check if it's time for clean
 	if(counter_cycles_cleaner >= n_clean )
@@ -325,7 +332,8 @@ void setup()
   	do_send(&sendjob);
 }
 
-void loop() {
+void loop()
+{
   os_runloop_once();
 }
 
@@ -403,7 +411,6 @@ void readPM()
 		try_sds = 0;
 	}
 }
-
 
 void readBatt()
 {

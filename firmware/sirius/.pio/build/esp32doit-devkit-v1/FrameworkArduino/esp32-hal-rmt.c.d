@@ -82,6 +82,7 @@
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/log/include/esp_log_internal.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-matrix.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-uart.h \
+ /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/uart_types.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-gpio.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/variants/doitESP32devkitV1/pins_arduino.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-touch.h \

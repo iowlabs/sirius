@@ -86,6 +86,7 @@
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-matrix.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-uart.h \
+ /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/uart_types.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-gpio.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/variants/doitESP32devkitV1/pins_arduino.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-touch.h \
@@ -126,6 +127,7 @@
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/IPAddress.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/HardwareSerial.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/HWCDC.h \
+ /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/USBCDC.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/Esp.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_partition.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_flash.h \
@@ -133,4 +135,6 @@
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/esp_flash_err.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_spi_flash.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_spi_flash_counters.h \
- /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/soc/esp32/spiram.h
+ /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/soc/esp32/spiram.h \
+ /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/io_pin_remap.h \
+ /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/Arduino.h

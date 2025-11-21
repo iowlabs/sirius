@@ -117,6 +117,7 @@
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/def.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/ip6_zone.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/include/apps/dhcpserver/dhcpserver.h \
+ /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/err.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_netif/include/esp_netif_sta_list.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_smartconfig.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/wifi_provisioning/include/wifi_provisioning/manager.h \
@@ -144,6 +145,7 @@
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/log/include/esp_log_internal.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-matrix.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-uart.h \
+ /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/uart_types.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-gpio.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/variants/doitESP32devkitV1/pins_arduino.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-touch.h \
@@ -176,6 +178,7 @@
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/Stream.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/HardwareSerial.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/HWCDC.h \
+ /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/USBCDC.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/Esp.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_partition.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_flash.h \
@@ -184,6 +187,8 @@
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_spi_flash.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_spi_flash_counters.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/soc/esp32/spiram.h \
+ /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/io_pin_remap.h \
+ /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/Arduino.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/Client.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiServer.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/Server.h \
@@ -196,5 +201,4 @@
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_wifi_crypto_types.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_private/wifi_os_adapter.h \
  /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_wifi_default.h \
- /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal.h \
- /home/wac/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/err.h
+ /home/wac/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal.h
