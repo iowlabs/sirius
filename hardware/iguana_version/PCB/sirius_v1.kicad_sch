@@ -15194,7 +15194,7 @@
 			(uuid "98f0ec85-6827-4e9a-b3c2-ba4f9e1a1897")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R26")
 					(unit 1)
@@ -15271,7 +15271,7 @@
 			(uuid "1f89d561-9360-40c0-8ae1-2661e8d19f05")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#FLG01")
 					(unit 1)
@@ -15348,7 +15348,7 @@
 			(uuid "e98dd474-01d6-497f-b315-0f7ef0187732")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR048")
 					(unit 1)
@@ -15438,7 +15438,7 @@
 			(uuid "f938d3e8-de9a-4cb5-b7ce-c1bbc9efb327")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R28")
 					(unit 1)
@@ -15527,7 +15527,7 @@
 			(uuid "10c577ca-4635-4df6-8e56-594968c06644")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR014")
 					(unit 1)
@@ -15554,7 +15554,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "05843bbc-9812-4194-86ef-2811146ec4cb")
 		(property "Reference" "D6"
 			(at 166.6494 174.1678 90)
@@ -15608,7 +15608,7 @@
 			(uuid "0828c6ca-7fce-450b-b435-dac7775362e0")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "D6")
 					(unit 1)
@@ -15703,7 +15703,7 @@
 			(uuid "5d9b232d-70f2-46b2-8a58-c9a82c3bf62f")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "Q3")
 					(unit 2)
@@ -15784,7 +15784,7 @@
 			(uuid "73eefab8-6797-46dc-8d67-e26a30a8898b")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "D4")
 					(unit 1)
@@ -15910,7 +15910,7 @@
 			(uuid "5f326188-1a7c-4d86-8225-585926af6bcb")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C4")
 					(unit 1)
@@ -16001,7 +16001,7 @@
 			(uuid "f61593d3-f51e-453c-ac7b-8a830a1bd1b4")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "U1")
 					(unit 1)
@@ -16079,7 +16079,7 @@
 			(uuid "77e1a9e4-cc46-4981-9a75-e19d49340f9f")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR060")
 					(unit 1)
@@ -16185,7 +16185,7 @@
 			(uuid "743e111c-6c6d-4216-8c5f-4230beff6e9c")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "J7")
 					(unit 1)
@@ -16290,7 +16290,7 @@
 			(uuid "59712f2f-dcdc-49de-b11a-2d66599f55f9")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C15")
 					(unit 1)
@@ -16367,7 +16367,7 @@
 			(uuid "5bf037b9-00cc-4b4c-b765-de4ed31e97b5")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR020")
 					(unit 1)
@@ -16444,7 +16444,7 @@
 			(uuid "236b7ae7-29e1-4111-b999-eb29602ee126")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR043")
 					(unit 1)
@@ -16524,7 +16524,7 @@
 			(uuid "3d6eef8e-ecd0-4d06-b170-793564d4349d")
 		)
 		(instances
-			(project ""
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "JP4")
 					(unit 1)
@@ -16629,7 +16629,7 @@
 			(uuid "1f361d07-11ca-46cb-8126-55ba382a0a73")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C20")
 					(unit 1)
@@ -16730,7 +16730,7 @@
 			(uuid "beb41321-f5fb-43e1-8318-1603f22f848b")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "D2")
 					(unit 1)
@@ -16823,7 +16823,7 @@
 			(uuid "85591149-bc73-402c-8a17-964cd9d66c5c")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "U3")
 					(unit 1)
@@ -16900,7 +16900,7 @@
 			(uuid "175eb359-c37e-42c6-b5e6-a5c72b2df15f")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR037")
 					(unit 1)
@@ -17017,7 +17017,7 @@
 			(uuid "6f590f69-6f2f-4687-ad7d-536b4857133a")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C8")
 					(unit 1)
@@ -17094,7 +17094,7 @@
 			(uuid "72b33f91-c805-4b8f-98dd-060cdf4f888c")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR09")
 					(unit 1)
@@ -17216,7 +17216,7 @@
 			(uuid "e12afb49-5fba-4d41-be49-f6dd19751eaa")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "U9")
 					(unit 1)
@@ -17293,7 +17293,7 @@
 			(uuid "8b589c21-40d6-4d9b-8f09-5040d865099b")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR74")
 					(unit 1)
@@ -17371,7 +17371,7 @@
 			(uuid "198e3e64-dce2-4624-a220-40aa1fc83812")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R27")
 					(unit 1)
@@ -17448,7 +17448,7 @@
 			(uuid "46ef90ec-a215-439a-8142-da8160eec643")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR040")
 					(unit 1)
@@ -17536,7 +17536,7 @@
 			(uuid "7dd61d52-2514-411b-8035-04400a2a8c8c")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R13")
 					(unit 1)
@@ -17614,7 +17614,7 @@
 			(uuid "79b8de8c-f4e3-45ca-b71c-a21519df036f")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR053")
 					(unit 1)
@@ -17693,7 +17693,7 @@
 			(uuid "8fe673d8-94cc-4003-8ef6-6b1ac1f2f946")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "D9")
 					(unit 1)
@@ -17770,7 +17770,7 @@
 			(uuid "437936e3-f0d9-4c18-9bd4-f4e116486103")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR017")
 					(unit 1)
@@ -17858,7 +17858,7 @@
 			(uuid "1b846c00-b462-48a4-b3c8-f29de23b1919")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R36")
 					(unit 1)
@@ -17923,7 +17923,7 @@
 			(uuid "47465d9c-bfd4-43c5-90ee-9cb9e4809c1d")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR064")
 					(unit 1)
@@ -18000,7 +18000,7 @@
 			(uuid "08bb8e91-c7ca-4d28-83f9-662c90f9660a")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR018")
 					(unit 1)
@@ -18095,7 +18095,7 @@
 			(uuid "bde5110c-79f4-4b32-a48b-878ab2a7bf03")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "J10")
 					(unit 1)
@@ -18173,7 +18173,7 @@
 			(uuid "47c7a5be-5a52-4c9c-bb1b-454ac8eeb34b")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R30")
 					(unit 1)
@@ -18275,7 +18275,7 @@
 			(uuid "61aadcfa-8d00-4677-8e8e-85afc9409db8")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R31")
 					(unit 1)
@@ -18364,7 +18364,7 @@
 			(uuid "2e832c53-0e0f-4a0a-ac2c-da832cbcada5")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR029")
 					(unit 1)
@@ -18488,7 +18488,7 @@
 			(uuid "8801de24-b581-4897-9cb4-aa9af26494ec")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "J15")
 					(unit 1)
@@ -18566,7 +18566,7 @@
 			(uuid "45f521e7-d0fd-43e3-a6d7-217701a0a59a")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR058")
 					(unit 1)
@@ -18649,7 +18649,7 @@
 			(uuid "663866bc-a905-4990-8322-6aa71966deea")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "JP1")
 					(unit 1)
@@ -18714,7 +18714,7 @@
 			(uuid "09748520-44f4-42d4-9263-c561ae3dc6ed")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR038")
 					(unit 1)
@@ -18791,7 +18791,7 @@
 			(uuid "f3f19bcc-60c7-44e7-bc13-bd2f93c30189")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR016")
 					(unit 1)
@@ -18881,7 +18881,7 @@
 			(uuid "ae50a61c-6149-4329-88f5-fbcdd6aa66af")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R32")
 					(unit 1)
@@ -18978,7 +18978,7 @@
 			(uuid "6aa92d8d-966d-425d-9946-f87c8db300d4")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "SW2")
 					(unit 1)
@@ -19096,7 +19096,7 @@
 			(uuid "72f3e0d5-e4f4-4767-b920-44fe5b56a0ca")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C11")
 					(unit 1)
@@ -19173,7 +19173,7 @@
 			(uuid "01322244-edac-4368-a7f5-97dbb6e5954a")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR070")
 					(unit 1)
@@ -19261,7 +19261,7 @@
 			(uuid "cddcc781-a13a-4c22-9f14-235be606a682")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R42")
 					(unit 1)
@@ -19326,7 +19326,7 @@
 			(uuid "d850fe7b-4d3c-4599-be06-8a32e9e2c912")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR039")
 					(unit 1)
@@ -19353,7 +19353,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "3abfdbb3-ee68-4df5-bdd6-f5299869def1")
 		(property "Reference" "R10"
 			(at 157.5816 166.5478 0)
@@ -19416,7 +19416,7 @@
 			(uuid "fa399808-86bf-4244-afc6-6b926ef06678")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R10")
 					(unit 1)
@@ -19513,7 +19513,7 @@
 			(uuid "f0efcbcf-f121-4e03-8289-2a5fd84d4617")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "J6")
 					(unit 1)
@@ -19578,7 +19578,7 @@
 			(uuid "0fc6d5f5-3420-466d-a3fe-a3b88b5bee59")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR75")
 					(unit 1)
@@ -19643,7 +19643,7 @@
 			(uuid "11db2425-f0ca-4ddd-8e3d-19c6186ac724")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR027")
 					(unit 1)
@@ -19725,7 +19725,7 @@
 			(uuid "e52695e6-cd28-4ca9-9b8e-a795c42685b5")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "BT1")
 					(unit 1)
@@ -19819,7 +19819,7 @@
 			(uuid "795d660d-ac87-48d5-90bd-f3ef673a00fa")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "J4")
 					(unit 1)
@@ -19834,7 +19834,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "3cd9ffa0-fde5-4e99-be91-e59e01792b19")
 		(property "Reference" "D5"
 			(at 165.3794 165.2778 90)
@@ -19888,7 +19888,7 @@
 			(uuid "d36f0a75-125f-4c59-883c-c47917257264")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "D5")
 					(unit 1)
@@ -19973,7 +19973,7 @@
 			(uuid "98b7fdd7-188b-4dee-a2e7-f080b3f6e093")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "SW3")
 					(unit 1)
@@ -20061,7 +20061,7 @@
 			(uuid "b3074733-7571-43d3-8503-2d246d59d38b")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R35")
 					(unit 1)
@@ -20128,7 +20128,7 @@
 			(uuid "a80f8c6b-7136-44a4-8fe6-6598e4838169")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR054")
 					(unit 1)
@@ -20223,7 +20223,7 @@
 			(uuid "92dfbcd2-5ebe-4c5e-8622-fa2a0681ad23")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "Q1")
 					(unit 1)
@@ -20300,7 +20300,7 @@
 			(uuid "e5bd974e-1776-445a-8557-c31276c6856f")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR03")
 					(unit 1)
@@ -20377,7 +20377,7 @@
 			(uuid "11b002c6-b0c3-4552-99c6-dede90718148")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR23")
 					(unit 1)
@@ -20442,7 +20442,7 @@
 			(uuid "35bda4eb-0a43-4275-a108-2cf941e770fd")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR013")
 					(unit 1)
@@ -20559,7 +20559,7 @@
 			(uuid "ec2c84b3-a57d-442b-8dae-258e63cfd439")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C14")
 					(unit 1)
@@ -20637,7 +20637,7 @@
 			(uuid "a5bb9514-9f0d-4133-a8d4-a8a28528c41d")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR071")
 					(unit 1)
@@ -20755,7 +20755,7 @@
 			(uuid "5755be17-f548-4715-bd19-a07bcf8c6c8e")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "U2")
 					(unit 1)
@@ -20852,7 +20852,7 @@
 			(uuid "d17b68fb-3b70-4197-b854-b5616142c32e")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R1")
 					(unit 1)
@@ -20942,7 +20942,7 @@
 			(uuid "997923db-8c46-409c-bf2b-93327f65814a")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R23")
 					(unit 1)
@@ -21019,7 +21019,7 @@
 			(uuid "907af193-c7fc-4b02-9516-1e0839c71da5")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR07")
 					(unit 1)
@@ -21109,7 +21109,7 @@
 			(uuid "44a1977f-48e2-4086-b2eb-8ee4e7309105")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "J3")
 					(unit 1)
@@ -21199,7 +21199,7 @@
 			(uuid "aacc1e95-08a7-4d50-9d2f-15902010eaaf")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R29")
 					(unit 1)
@@ -21365,7 +21365,7 @@
 			(uuid "56c662fb-e611-41b4-8f8a-51afa092c50e")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "D15")
 					(unit 1)
@@ -21443,7 +21443,7 @@
 			(uuid "7d3d5dbe-a5af-4f65-9579-50308d8ab15d")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R5")
 					(unit 1)
@@ -21520,7 +21520,7 @@
 			(uuid "b6111f57-b79c-4d40-9f2d-350ac50c42f8")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR028")
 					(unit 1)
@@ -21598,7 +21598,7 @@
 			(uuid "7427a5ab-f9d0-4a43-985d-93bd91f9628a")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR051")
 					(unit 1)
@@ -21688,7 +21688,7 @@
 			(uuid "5983ef26-d809-4a8b-b123-ea802c30794f")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R8")
 					(unit 1)
@@ -21786,7 +21786,7 @@
 			(uuid "147b852e-cb56-444a-963c-ef0891b153d4")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "U11")
 					(unit 1)
@@ -21863,7 +21863,7 @@
 			(uuid "903df719-c957-4330-84c6-8de0430fffb1")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR059")
 					(unit 1)
@@ -21965,7 +21965,7 @@
 			(uuid "0291459a-7810-4e9b-ab6b-f12459c1cee1")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R6")
 					(unit 1)
@@ -22042,7 +22042,7 @@
 			(uuid "f00d50d1-d767-4e12-a678-60b80a34cb73")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR044")
 					(unit 1)
@@ -22121,7 +22121,7 @@
 			(uuid "41a89796-3251-4fdf-833b-174c9a13de53")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "L1")
 					(unit 1)
@@ -22203,7 +22203,7 @@
 			(uuid "6ea127aa-c351-4d03-9f0b-397f254c5049")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "J14")
 					(unit 1)
@@ -22321,7 +22321,7 @@
 			(uuid "05533991-9794-4fc3-9a78-ae5eeda17de3")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C7")
 					(unit 1)
@@ -22409,7 +22409,7 @@
 			(uuid "db46c811-e3e8-4e4a-8b56-242682a262a7")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "Q10")
 					(unit 1)
@@ -22474,7 +22474,7 @@
 			(uuid "6ec88691-60c3-4475-916a-25624bd1b97d")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR019")
 					(unit 1)
@@ -22568,7 +22568,7 @@
 			(uuid "8c80a98a-3cec-4164-9dea-846658613ac4")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "J9")
 					(unit 1)
@@ -22640,7 +22640,7 @@
 			(uuid "cc652ae9-b894-473b-b6d2-ca61292587e6")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR033")
 					(unit 1)
@@ -22729,7 +22729,7 @@
 			(uuid "df4f2d5e-69d4-497d-a118-8e0f67f9388d")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR045")
 					(unit 1)
@@ -22814,7 +22814,7 @@
 			(uuid "ba2c6205-3b84-4fb6-8e1a-59eeed134100")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "D11")
 					(unit 1)
@@ -22911,7 +22911,7 @@
 			(uuid "7f396385-1864-4200-ae98-81554c435bf8")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R3")
 					(unit 1)
@@ -23028,7 +23028,7 @@
 			(uuid "1d024fef-9042-47d0-b636-d7d21091bb32")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C12")
 					(unit 1)
@@ -23124,7 +23124,7 @@
 			(uuid "fed0c4fd-b568-4e68-a558-c1a8907fbd73")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "Q3")
 					(unit 1)
@@ -23207,7 +23207,7 @@
 			(uuid "1ec5f1d5-58b9-4787-95c9-ec18f4b93e0f")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "Q6")
 					(unit 1)
@@ -23273,7 +23273,7 @@
 			(uuid "141eb520-1579-4ba1-8461-e2d0c1fca57c")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR068")
 					(unit 1)
@@ -23362,7 +23362,7 @@
 			(uuid "8ce87c2c-9132-4299-81b9-193f9861985f")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR015")
 					(unit 1)
@@ -23479,7 +23479,7 @@
 			(uuid "8eb1d7de-6f10-44d9-a45e-92d91bfe5191")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C1")
 					(unit 1)
@@ -23559,7 +23559,7 @@
 			(uuid "06a06ea8-59c3-40f4-867a-599153163dea")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "JP3")
 					(unit 1)
@@ -23637,7 +23637,7 @@
 			(uuid "5c2d58f1-38f2-471a-9490-af8460a362d8")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "J19")
 					(unit 1)
@@ -23664,7 +23664,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "75fb9cdb-dfdf-4099-9c85-1ef14ad8aac5")
 		(property "Reference" "R11"
 			(at 157.5816 175.4378 0)
@@ -23727,7 +23727,7 @@
 			(uuid "8f253a36-7108-4736-a47b-eb6582fe4a04")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R11")
 					(unit 1)
@@ -23817,7 +23817,7 @@
 			(uuid "d57bc72b-c7c9-4229-af1f-240e7e1569e6")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "J18")
 					(unit 1)
@@ -23894,7 +23894,7 @@
 			(uuid "4ba4e7a9-17f6-4984-a94b-c87098ab7157")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR012")
 					(unit 1)
@@ -23982,7 +23982,7 @@
 			(uuid "db08b3ab-fbc3-4277-b671-1ac8aafab1a6")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R40")
 					(unit 1)
@@ -24047,7 +24047,7 @@
 			(uuid "b58b039a-0e09-47da-90d2-af4a285e8aa8")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR78")
 					(unit 1)
@@ -24123,7 +24123,7 @@
 			(uuid "d0ba9c6a-7425-4852-81f3-b06b9c2ac002")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R4")
 					(unit 1)
@@ -24240,7 +24240,7 @@
 			(uuid "ee8c8bc2-3985-44fc-8400-84362fe8f051")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C16")
 					(unit 1)
@@ -24317,7 +24317,7 @@
 			(uuid "134f235f-fe01-4476-a047-db44a4343b00")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR05")
 					(unit 1)
@@ -24500,7 +24500,7 @@
 			(uuid "fa85b995-9e77-4797-b192-58c978c4e58d")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C19")
 					(unit 1)
@@ -24577,7 +24577,7 @@
 			(uuid "3cebd8fd-8a99-4918-96a4-b8cc5eca82cb")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR049")
 					(unit 1)
@@ -24665,7 +24665,7 @@
 			(uuid "ffe39304-78d2-4936-baf9-70f710368ed9")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "D1")
 					(unit 1)
@@ -24742,7 +24742,7 @@
 			(uuid "7355e31e-54ae-4b96-b5ce-1c397769c6f4")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR035")
 					(unit 1)
@@ -24819,7 +24819,7 @@
 			(uuid "cf3acc78-b3ba-4de4-b37b-97021e34a48e")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR034")
 					(unit 1)
@@ -24900,7 +24900,7 @@
 			(uuid "bf0b29e2-730e-4103-9be3-cedbe19c26eb")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "F1")
 					(unit 1)
@@ -24990,7 +24990,7 @@
 			(uuid "224739aa-b21c-4dea-94e4-2529567bcc95")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R34")
 					(unit 1)
@@ -25068,7 +25068,7 @@
 			(uuid "bb0744d1-045e-44f5-8bc8-84f719492d4b")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR041")
 					(unit 1)
@@ -25158,7 +25158,7 @@
 			(uuid "a988b0d6-4145-4e28-8102-ef8ce7aaad27")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R7")
 					(unit 1)
@@ -25236,7 +25236,7 @@
 			(uuid "8d000e96-6903-4afc-b95e-a1897cc2e746")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR052")
 					(unit 1)
@@ -25325,7 +25325,7 @@
 			(uuid "9a9fd681-4e91-45c2-938f-a613b097e7f7")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R22")
 					(unit 1)
@@ -25404,7 +25404,7 @@
 			(uuid "8a9a9c35-1147-4739-80e4-865566a19fe2")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "D8")
 					(unit 1)
@@ -25481,7 +25481,7 @@
 			(uuid "e9e7372a-a645-4e87-8a0b-bf6ed535b338")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR036")
 					(unit 1)
@@ -25508,7 +25508,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "93602dcc-fdec-4deb-a6e0-d0b7f5d0c200")
 		(property "Reference" "R12"
 			(at 157.5816 183.0578 0)
@@ -25571,7 +25571,7 @@
 			(uuid "4d1e02c9-e82a-420c-afc8-6e31f3f083ab")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R12")
 					(unit 1)
@@ -25652,7 +25652,7 @@
 			(uuid "73909d5c-7f65-4fe5-9c81-f8f5855bf468")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "D12")
 					(unit 1)
@@ -25740,7 +25740,7 @@
 			(uuid "52bca144-2c29-4e7f-b9ea-c57f7a00e51c")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R2")
 					(unit 1)
@@ -25864,7 +25864,7 @@
 			(uuid "e9bf5685-6850-47cd-8f84-5c825d9a936f")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "U12")
 					(unit 1)
@@ -25952,7 +25952,7 @@
 			(uuid "ae169b05-fd0d-47f1-b584-702207fef8b3")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "Q9")
 					(unit 1)
@@ -26018,7 +26018,7 @@
 			(uuid "e7760714-ce96-4b0d-a75c-58851e6c53a3")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR055")
 					(unit 1)
@@ -26095,7 +26095,7 @@
 			(uuid "2169e80d-4a43-4132-9252-6d36408ab0c5")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR067")
 					(unit 1)
@@ -26172,7 +26172,7 @@
 			(uuid "a6ea68d2-457b-4559-bb92-5d8b85c070b1")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR026")
 					(unit 1)
@@ -26263,7 +26263,7 @@
 			(uuid "e9a8e973-21e8-4aba-b369-5f482a02e6be")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R15")
 					(unit 1)
@@ -26368,7 +26368,7 @@
 			(uuid "12eb6375-31d6-40be-9427-93a07aaf0343")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C2")
 					(unit 1)
@@ -26558,7 +26558,7 @@
 			(uuid "22e99d91-0bda-4d45-9a64-ae769bf9619a")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "U10")
 					(unit 1)
@@ -26648,7 +26648,7 @@
 			(uuid "85c0a124-7e3b-4abf-86a8-f0ef435fcbb8")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "J1")
 					(unit 1)
@@ -26725,7 +26725,7 @@
 			(uuid "f29ad7c4-d9b6-4179-a899-3387871fd71a")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR046")
 					(unit 1)
@@ -26813,7 +26813,7 @@
 			(uuid "758d1e5d-7878-4eba-b450-024fb5b82757")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R39")
 					(unit 1)
@@ -26881,7 +26881,7 @@
 			(uuid "8f0e5522-65ab-4696-9667-08836a809d7b")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C21")
 					(unit 1)
@@ -26972,7 +26972,7 @@
 			(uuid "f01f76f0-e3ce-4a13-b55b-6a9fed064f8f")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "J13")
 					(unit 1)
@@ -27055,7 +27055,7 @@
 			(uuid "bbc1123c-763b-4db1-a2ec-7958fcf1f4c1")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR024")
 					(unit 1)
@@ -27143,7 +27143,7 @@
 			(uuid "f88d93ae-82bc-43de-8cfa-0a752443ae3e")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R43")
 					(unit 1)
@@ -27213,7 +27213,7 @@
 			(uuid "6dcf12b1-6756-4f2a-a87f-a946bc902dd0")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "J17")
 					(unit 1)
@@ -27304,7 +27304,7 @@
 			(uuid "9f3acd61-05eb-4800-bab1-f0e93c7689f7")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "U4")
 					(unit 1)
@@ -27386,7 +27386,7 @@
 			(uuid "f042d3bc-4ab3-4c63-8974-7863ddc5ca90")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "JP2")
 					(unit 1)
@@ -27462,7 +27462,7 @@
 			(uuid "91c54060-f05a-4c44-89ca-70b66e426ffa")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "U6")
 					(unit 1)
@@ -27539,7 +27539,7 @@
 			(uuid "dbd6090e-a155-4543-ac98-3b1e31c91d22")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR01")
 					(unit 1)
@@ -27628,7 +27628,7 @@
 			(uuid "48012c65-ac53-4656-8dc7-d1257f264e30")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R25")
 					(unit 1)
@@ -27746,7 +27746,7 @@
 			(uuid "aff3afc7-4c31-4178-b490-aa42409696df")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C9")
 					(unit 1)
@@ -27834,7 +27834,7 @@
 			(uuid "c4d57cf5-3478-4c9b-9adf-61202036b0c1")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R14")
 					(unit 1)
@@ -27985,7 +27985,7 @@
 			(uuid "30ffc8a5-54a7-41a5-b7c0-6d6f7da29ba0")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "Q7")
 					(unit 1)
@@ -28090,7 +28090,7 @@
 			(uuid "26b5c8db-f095-41a8-a990-8c05aae36e5d")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C13")
 					(unit 1)
@@ -28178,7 +28178,7 @@
 			(uuid "885965a2-b991-4514-8828-d9871182a07d")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "U8")
 					(unit 1)
@@ -28269,7 +28269,7 @@
 			(uuid "1e511eef-2399-49e6-9866-6e61e1011e5e")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "J12")
 					(unit 1)
@@ -28346,7 +28346,7 @@
 			(uuid "b537569c-b0fa-46ec-a691-848ab03caf81")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR022")
 					(unit 1)
@@ -28429,7 +28429,7 @@
 			(uuid "1f26530b-a515-47e3-9b5d-8f685cf30920")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "Q2")
 					(unit 1)
@@ -28506,7 +28506,7 @@
 			(uuid "66563c35-ed42-43d5-b12e-a0c82860f628")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR031")
 					(unit 1)
@@ -28583,7 +28583,7 @@
 			(uuid "486e4895-aa7a-4904-9b18-32b1a963f5da")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR032")
 					(unit 1)
@@ -28668,7 +28668,7 @@
 			(uuid "d46fbcc4-2b3c-4c11-91b2-9cc9aab4728c")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "SW1")
 					(unit 1)
@@ -28745,7 +28745,7 @@
 			(uuid "caf6e732-d5ae-4955-8da8-9aff663ac5ce")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR02")
 					(unit 1)
@@ -28862,7 +28862,7 @@
 			(uuid "981318ae-ee5a-4333-85eb-afdeb9587b0b")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C17")
 					(unit 1)
@@ -28939,7 +28939,7 @@
 			(uuid "f0a8e96e-4dc8-45c6-a641-bc92c3a2fde0")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR047")
 					(unit 1)
@@ -29063,7 +29063,7 @@
 			(uuid "0e22daaf-228e-425c-927c-f660158a42eb")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C3")
 					(unit 1)
@@ -29140,7 +29140,7 @@
 			(uuid "38d1ad4f-5da3-47a1-b8ad-031cf1d95558")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR021")
 					(unit 1)
@@ -29217,7 +29217,7 @@
 			(uuid "410b4754-956a-447c-ae26-9e56f614fd89")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR042")
 					(unit 1)
@@ -29306,7 +29306,7 @@
 			(uuid "29f4afed-21d0-4425-bdc0-11b3cc740d70")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "J2")
 					(unit 1)
@@ -29383,7 +29383,7 @@
 			(uuid "a8b5215b-675e-4308-bcfb-71d9db60ab63")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR063")
 					(unit 1)
@@ -29460,7 +29460,7 @@
 			(uuid "51137a32-d2d3-4c7e-8352-87f84b9e2192")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR77")
 					(unit 1)
@@ -29565,7 +29565,7 @@
 			(uuid "67af0ae8-599e-46ca-a640-90de52c1efca")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C5")
 					(unit 1)
@@ -29643,7 +29643,7 @@
 			(uuid "1ef856a2-f4ab-4ed9-8d32-081f9a269071")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR050")
 					(unit 1)
@@ -29743,7 +29743,7 @@
 			(uuid "901bf6ea-0f0c-45ad-b04b-4c7809d61799")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "Q4")
 					(unit 1)
@@ -29808,7 +29808,7 @@
 			(uuid "7dc2b626-2298-4947-a061-9a145a2b04ec")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR06")
 					(unit 1)
@@ -29886,7 +29886,7 @@
 			(uuid "aabd122f-d894-4c3b-b4bc-9aea35838cc7")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR056")
 					(unit 1)
@@ -29979,7 +29979,7 @@
 			(uuid "00dbe75a-9253-45a9-9b39-f98519d67452")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "D10")
 					(unit 1)
@@ -30096,7 +30096,7 @@
 			(uuid "4574460f-538a-4889-bee3-04b51c7785c6")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C6")
 					(unit 1)
@@ -30213,7 +30213,7 @@
 			(uuid "cc30ac53-6086-455d-9514-b94d9c1e5d65")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C10")
 					(unit 1)
@@ -30304,7 +30304,7 @@
 			(uuid "3ecd557b-180b-4922-8b9b-a1c147030313")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R21")
 					(unit 1)
@@ -30386,7 +30386,7 @@
 			(uuid "d7c4dd8b-d933-4d18-8357-5c0d27de6907")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R37")
 					(unit 1)
@@ -30465,7 +30465,7 @@
 			(uuid "8fc7d4f9-785e-43a2-83b2-9d6be6c16f32")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "D3")
 					(unit 1)
@@ -30555,7 +30555,7 @@
 			(uuid "94ab38f8-47d5-417f-8b58-b9a879edda5f")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R33")
 					(unit 1)
@@ -30632,7 +30632,7 @@
 			(uuid "0252e59c-6a69-438d-bbe1-4750b8ab74b0")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR08")
 					(unit 1)
@@ -30710,7 +30710,7 @@
 			(uuid "300f4aa6-2bc8-4be9-9826-a44a990bc549")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR010")
 					(unit 1)
@@ -30782,7 +30782,7 @@
 			(uuid "6facfe23-b677-4a6a-b043-f1856ce23425")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR057")
 					(unit 1)
@@ -30871,7 +30871,7 @@
 			(uuid "c474c57f-0fdd-48be-ad0c-3e9c9eb35b9e")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR011")
 					(unit 1)
@@ -30961,7 +30961,7 @@
 			(uuid "a94af5da-aa40-4542-bd71-67f58e1a5daa")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R9")
 					(unit 1)
@@ -31054,7 +31054,7 @@
 			(uuid "5eb8565b-3057-4539-8869-c2981f8c1253")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "J5")
 					(unit 1)
@@ -31120,7 +31120,7 @@
 			(uuid "6d26c244-3206-494f-b4a3-e0f558a049e4")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR025")
 					(unit 1)
@@ -31210,7 +31210,7 @@
 			(uuid "dd435ca7-146d-4c5f-b7a0-5e3528ecea28")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "R24")
 					(unit 1)
@@ -31327,7 +31327,7 @@
 			(uuid "1c1a8bc1-2cf6-4131-85c3-cbb1f8eccee9")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "C18")
 					(unit 1)
@@ -31427,7 +31427,7 @@
 			(uuid "7b40a1b0-f8e1-4ece-a375-46b4a6b979da")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "U5")
 					(unit 1)
@@ -31454,7 +31454,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "fc90e6b3-d27b-4c37-8ee1-9e382388f4e1")
 		(property "Reference" "D7"
 			(at 166.6494 181.7878 90)
@@ -31508,7 +31508,7 @@
 			(uuid "866899e9-077b-4774-997e-c77a5222c550")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "D7")
 					(unit 1)
@@ -31585,7 +31585,7 @@
 			(uuid "d0c97ce4-821a-49b8-9926-1784a214a643")
 		)
 		(instances
-			(project "Iguana_V1"
+			(project "sirius_v1"
 				(path "/3b57faab-ddb3-4ef8-883c-40a3ac2704ad"
 					(reference "#PWR04")
 					(unit 1)
